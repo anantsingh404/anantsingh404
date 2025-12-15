@@ -19,7 +19,7 @@
 ## 🚀 Professional Snapshot
 Software Engineer with experience in building scalable web applications and high-performance backend systems. Skilled in designing clean architectures, optimizing APIs, and delivering reliable production-ready software.
 
-Strong problem-solving background with deep involvement in competitive programming and data structures & algorithms. Continuously focused on improving system performance, code quality, and development workflows.
+Strong problem-solving background with deep involvement in competitive programming and a solid foundation in core computer science fundamentals. Continuously focused on improving system performance, code quality, and development workflows.
 
 ---
 
@@ -47,7 +47,7 @@ Strong problem-solving background with deep involvement in competitive programmi
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat)
-![REST API](https://img.shields.io/badge/REST%20APIs-05122A?style=flat)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-05122A?style=flat)
 ![WebSockets](https://img.shields.io/badge/WebSockets-05122A?style=flat)
 
 ---
@@ -63,13 +63,22 @@ Strong problem-solving background with deep involvement in competitive programmi
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-05122A?style=flat)
 
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visualstudiocode)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
+
+---
+
+## 🧩 Core Computer Science
+![Data Structures](https://img.shields.io/badge/Data%20Structures-05122A?style=flat)
+![Algorithms](https://img.shields.io/badge/Algorithms-05122A?style=flat)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-05122A?style=flat)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-05122A?style=flat)
+![System Design](https://img.shields.io/badge/System%20Design-05122A?style=flat)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-05122A?style=flat)
 
 ---
 
@@ -91,7 +100,7 @@ _Bangalore, India | Feb 2023 – Present_
 
 ## 🎓 Education
 **Visvesvaraya Technological University**  
-Bachelor of Engineering — Computer Science Engineering
+Bachelor of Engineering — Computer Science Engineering  
 _Aug 2019 – May 2023_
 
 ---
@@ -99,5 +108,5 @@ _Aug 2019 – May 2023_
 ## 🤝 Get in Touch
 Open to new opportunities, collaborations, and challenging engineering problems.
 
-📧 anantvikrams30@gmail.com  
+📧 Email: anantvikrams30@gmail.com  
 💻 GitHub: [anantsingh404](https://github.com/anantsingh404)
