@@ -1,101 +1,108 @@
-# Hi, I'm Anant Vikram Singh 👋
-**Software Engineer**  
-Bangalore, India • anantvikrams30@gmail.com • +91 85294 94669
+# 👋 Anant Vikram Singh
 
-[GitHub](https://github.com/anantsingh404) | [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [LeetCode](https://leetcode.com/your-username) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-username) | [CodeChef](https://www.codechef.com/users/your-username) | [CodeForces](https://codeforces.com/profile/your-username) | [HackerRank](https://www.hackerrank.com/your-username)
+### Software Engineer
 
----
+📍 Bangalore, India  
+📧 anantvikrams30@gmail.com  
 
-## About Me
-I'm a Software Engineer with experience building full-stack web applications and backend services. I focus on writing clean, maintainable code and designing systems that scale. I enjoy problem solving, competitive programming, and continuously improving system performance and developer workflows.
-
----
-
-## Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
-Languages: C, C++, Python, JavaScript, SQL  
-Frameworks / Libraries: React.js, Redux, Node.js, Express.js, Mongoose  
-Databases: MongoDB, MySQL  
-Tools & Platforms: Docker, VS Code, Linux, Postman, Git, Agile, CI/CD
+🔗 **Profiles:**  
+[![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/anantsingh404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/your-username)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05122A?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/your-username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-05122A?style=flat&logo=codechef)](https://www.codechef.com/users/your-username)
+[![Codeforces](https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces)](https://codeforces.com/profile/your-username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/your-username)
 
 ---
 
-## Experience
+## 🚀 Professional Snapshot
+Software Engineer with experience in building scalable web applications and high-performance backend systems. Skilled in designing clean architectures, optimizing APIs, and delivering reliable production-ready software.
 
-### Celstream Technologies — Software Engineer
-Bangalore, India | Feb 2023 – Present
-- Designed and implemented scalable Node.js APIs (Express, Mongoose) for ingestion, validation, and processing of high-volume real-time IoT/sensor data.
-- Built frontend and backend services for Water Testing, Summary, and Concentration features using React.js and Node.js, enabling real-time monitoring and chemical dosage analysis.
-- Optimized backend performance by improving database queries and implemented a Global Smart Search for instant analytics.
-- Automated CI/CD pipelines and integrated WebSockets for real-time IoT data and alerts to improve responsiveness and reduce downtime.
-- Contributed to Mac3070 M1/M2 migration (Intel 32-bit → ARM 64-bit): improved compiler flags, refactored critical modules, and adjusted Makefiles for better startup performance and compatibility.
-- Participated in Agile sprint planning and code reviews to deliver features on schedule.
+Strong problem-solving background with deep involvement in competitive programming and data structures & algorithms. Continuously focused on improving system performance, code quality, and development workflows.
 
 ---
 
-## Education
-Visvesvaraya Technological University — B.E., Computer Science Engineering  
-AUG 2019 – MAY 2023
+## ⚙️ Technology Arsenal
+
+### 🧠 Languages
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)
 
 ---
 
-## Selected Projects
-
-### My Coding World
-- An educational platform for students and educators to enhance learning and engagement.
-- Integrated Razorpay for secure payments (98% transaction success) and an AI-powered assistant that transcribes lectures and generates summarized notes (PDF) and a chat-based learning assistant.
-- Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Cloudinary, Razorpay, JWT, OpenAI API  
-- Repo / Demo: [Link](https://github.com/anantsingh404/my-coding-world) (update link if different)
-
-### NoteBook
-- A React app to organize date-specific notes with search, status management (To-Do, Scheduled, Pending, Done), rich descriptions, and deletion.
-- Focused on UX and intuitive task tracking.
-- Tech Stack: React.js, Tailwind CSS, Local Storage / Backend API  
-- Repo / Demo: [Link](https://github.com/anantsingh404/notebook) (update link if different)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/Redux-05122A?style=flat&logo=redux)
+![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-05122A?style=flat&logo=tailwindcss)
+![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery)
 
 ---
 
-## Achievements & Competitive Programming
-- Solved 3000+ DSA & CP problems across multiple platforms.
-- 1150+ problems solved on LeetCode (peak rating: 2219).
-- 5-star rating on GeeksforGeeks (4100+ score).
-- 5-star rating on CodeChef (peak rating: 2045).
-- Achieved Expert rank on Codeforces (peak rating: 1639).
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat)
+![REST API](https://img.shields.io/badge/REST%20APIs-05122A?style=flat)
+![WebSockets](https://img.shields.io/badge/WebSockets-05122A?style=flat)
 
 ---
 
-## Skills Summary
-- Backend: Node.js, Express, REST APIs, WebSockets, Microservices
-- Frontend: React.js, Tailwind CSS, Responsive UI
-- Datastores: MongoDB, MySQL
-- DevOps: Docker, CI/CD pipelines, basic AWS/GCP experience
-- Other: System Design, Multithreading, SDLC, Debugging, Problem Solving
+### 🗄️ Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis)
 
 ---
 
-## Get in Touch
-I'm open to collaboration and new opportunities. Feel free to reach out:
-- Email: anantvikrams30@gmail.com
-- Phone: +91 85294 94669
-- GitHub: [anantsingh404](https://github.com/anantsingh404)
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-05122A?style=flat)
+
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
+![Agile](https://img.shields.io/badge/Agile%20Scrum-05122A?style=flat)
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anantsingh404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantsingh404&layout=compact&langs_count=8&theme=algolia" />
-</p>
+## 🧠 Competitive Programming
+- Solved **3500+** DSA & algorithmic problems.
+- **LeetCode:** 1200+ problems | Peak Rating **2219**
+- **GeeksforGeeks:** 5⭐ | Score **4100+**
+- **CodeChef:** 5⭐ | Peak Rating **2045**
+- **Codeforces:** Expert | Peak Rating **1639**
 
 ---
 
-Thank you for visiting my profile — let's build something great together!
+## 💼 Experience
+
+**Celstream Technologies — Software Engineer**  
+_Bangalore, India | Feb 2023 – Present_
+
+- Built and maintained scalable applications and backend services.
+- Designed REST APIs and improved performance across critical workflows.
+- Worked closely with cross-functional teams in Agile environments.
+
+---
+
+## 🎓 Education
+**Visvesvaraya Technological University**  
+Bachelor of Engineering — Computer Science Engineering
+_Aug 2019 – May 2023_
+
+---
+
+## 🤝 Get in Touch
+Open to new opportunities, collaborations, and challenging engineering problems.
+
+📧 anantvikrams30@gmail.com  
+💻 GitHub: [anantsingh404](https://github.com/anantsingh404)
