@@ -7,12 +7,12 @@
 
 🔗 **Profiles:**  
 [![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/anantsingh404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05122A?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/your-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-05122A?style=flat&logo=codechef)](https://www.codechef.com/users/your-username)
-[![Codeforces](https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces)](https://codeforces.com/profile/your-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/anant-vikram-singh-8519331b5/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/u/singh_anant/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05122A?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/anant_singh_?tab=activity)
+[![CodeChef](https://img.shields.io/badge/CodeChef-05122A?style=flat&logo=codechef)](https://www.codechef.com/users/anant_singh404)
+[![Codeforces](https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces)](https://codeforces.com/profile/anant_.singh_)
+[![HackerRank](https://img.shields.io/badge/HackerRank-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/anant_singh_)
 
 ---
 
