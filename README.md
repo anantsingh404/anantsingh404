@@ -70,14 +70,13 @@ Strong problem-solving background with deep involvement in competitive programmi
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
 ![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
-![Agile](https://img.shields.io/badge/Agile%20Scrum-05122A?style=flat)
 
 ---
 
 ## 🧠 Competitive Programming
 - Solved **3500+** DSA & algorithmic problems.
 - **LeetCode:** 1200+ problems | Peak Rating **2219**
-- **GeeksforGeeks:** 5⭐ | Score **4100+**
+- **GeeksforGeeks:** 5⭐ | 1200+ problems | Score **4200+**
 - **CodeChef:** 5⭐ | Peak Rating **2045**
 - **Codeforces:** Expert | Peak Rating **1639**
 
