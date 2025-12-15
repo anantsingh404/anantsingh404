@@ -76,7 +76,7 @@ Strong problem-solving background with deep involvement in competitive programmi
 ## 🧠 Competitive Programming
 - Solved **3500+** DSA & algorithmic problems.
 - **LeetCode:** 1200+ problems | Peak Rating **2219**
-- **GeeksforGeeks:** 5⭐ | 1200+ problems | Score **4200+**
+- **GeeksforGeeks:** 5⭐ | 1300+ problems | Score **4200+**
 - **CodeChef:** 5⭐ | Peak Rating **2045**
 - **Codeforces:** Expert | Peak Rating **1639**
 
