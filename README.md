@@ -88,10 +88,6 @@ Strong problem-solving background with deep involvement in competitive programmi
 **Celstream Technologies — Software Engineer**  
 _Bangalore, India | Feb 2023 – Present_
 
-- Built and maintained scalable applications and backend services.
-- Designed REST APIs and improved performance across critical workflows.
-- Worked closely with cross-functional teams in Agile environments.
-
 ---
 
 ## 🎓 Education
