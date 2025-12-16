@@ -7,7 +7,7 @@
 
 🔗 **Profiles**  
 [![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/anantsingh404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/anant-vikram-singh-8519331b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-vikram-singh-8519331b5/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/u/singh_anant/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05122A?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/anant_singh_?tab=activity)
 [![CodeChef](https://img.shields.io/badge/CodeChef-05122A?style=flat&logo=codechef)](https://www.codechef.com/users/anant_singh404)
@@ -33,7 +33,7 @@ Actively focused on writing maintainable code, optimizing APIs, and delivering p
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
@@ -68,7 +68,7 @@ Actively focused on writing maintainable code, optimizing APIs, and delivering p
 ### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat&logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=jenkins)
