@@ -1,122 +1,213 @@
-# 👋 Anant Vikram Singh
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hey, I'm Anant Vikram Singh
 
-### Software Engineer
+<div align="center">
 
-📍 Bangalore, India  
-📧 anantvikrams30@gmail.com  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Spring+Boot+%7C+Backend+%7C+Microservices;React+%7C+Full+Stack+Development;3500%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+2219+%7C+CodeChef+2045+%7C+CF+1639" alt="Typing SVG" />
 
-🔗 **Profiles**  
-[![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/anantsingh404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-vikram-singh-8519331b5/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/u/singh_anant/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05122A?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/anant_singh_?tab=activity)
-[![CodeChef](https://img.shields.io/badge/CodeChef-05122A?style=flat&logo=codechef)](https://www.codechef.com/users/anant_singh404)
-[![Codeforces](https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces)](https://codeforces.com/profile/anant_.singh_)
-[![HackerRank](https://img.shields.io/badge/HackerRank-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/anant_singh_)
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/anantsingh404?label=Followers&style=social)](https://github.com/anantsingh404)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=anantsingh404&label=Profile%20Views&color=00d9ff&style=flat)](https://github.com/anantsingh404)
+
+</div>
 
 ---
 
-## 🚀 Professional Snapshot
-Software Engineer experienced in building scalable, high-performance web applications and backend systems. Strong foundation in **Data Structures, Algorithms, System Design**, and **clean architecture**.
+## 🧑‍💻 About Me
 
-Actively focused on writing maintainable code, optimizing APIs, and delivering production-ready solutions. Competitive programming background with consistent problem-solving at scale.
+```yaml
+name: Anant Vikram Singh
+role: Software Engineer
+location: Bangalore, India
+company: Celstream Technologies
+experience: 2+ years
+
+focus:
+  - Scalable Spring Boot microservices
+  - REST API design & Spring Security
+  - System design & clean architecture
+  - Competitive programming
+
+currently_learning:
+  - Advanced distributed systems
+  - Cloud-native architecture (AWS)
+
+open_to: Backend (Spring Boot) | Full-Stack | System Design roles
+contact: anantvikrams30@gmail.com
+```
 
 ---
 
-## ⚙️ Technology Arsenal
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github)](https://github.com/anantsingh404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-vikram-singh-8519331b5/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/singh_anant/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anant_singh_?tab=activity)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anant_singh404)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anant_.singh_)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/anant_singh_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantvikrams30@gmail.com)
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+| Platform | Rating | Rank / Stars | Problems |
+|----------|--------|--------------|----------|
+| 🟨 **LeetCode** | Peak **2219** | Knight | **1200+** |
+| 🟩 **GeeksforGeeks** | Score **4200+** | ⭐⭐⭐⭐⭐ | **1300+** |
+| 🟫 **CodeChef** | Peak **2045** | ⭐⭐⭐⭐⭐ | — |
+| 🔵 **Codeforces** | Peak **1639** | Expert | — |
+| ⬛ **HackerRank** | — | 6⭐ | — |
+
+</div>
+
+> 🧩 **3500+ DSA & algorithmic problems solved** across all platforms
+
+---
+
+## ⚙️ Tech Stack
 
 ### 🧠 Languages
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+### ☕ Backend — Primary Focus
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B35?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/Redux-05122A?style=flat&logo=redux)
-![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-05122A?style=flat&logo=tailwindcss)
-![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery)
-
----
-
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-05122A?style=flat&logo=springboot)
-![Microservices](https://img.shields.io/badge/Microservices-05122A?style=flat)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-05122A?style=flat)
-![WebSockets](https://img.shields.io/badge/WebSockets-05122A?style=flat)
-![JWT](https://img.shields.io/badge/JWT-05122A?style=flat)
-![OAuth2](https://img.shields.io/badge/OAuth2-05122A?style=flat)
-
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🗄️ Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis)
-
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=jenkins)
-![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anantsingh404&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&ring_color=00d9ff"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantsingh404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=anantsingh404&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anantsingh404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
-## 🧩 Core Computer Science
-![Data Structures](https://img.shields.io/badge/Data%20Structures-05122A?style=flat)
-![Algorithms](https://img.shields.io/badge/Algorithms-05122A?style=flat)
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-05122A?style=flat)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-05122A?style=flat)
-![System Design](https://img.shields.io/badge/System%20Design-05122A?style=flat)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-05122A?style=flat)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-05122A?style=flat)
+## 🗂️ Commit & Productivity Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anantsingh404&theme=tokyonight" alt="Profile Details"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anantsingh404&theme=tokyonight" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anantsingh404&theme=tokyonight" alt="Most Commit Language"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anantsingh404&theme=tokyonight" alt="Stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anantsingh404&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+
+</div>
 
 ---
 
-## 🧠 Competitive Programming
-- Solved **3500+** DSA & algorithmic problems  
-- **LeetCode:** 1200+ problems | Peak Rating **2219**  
-- **GeeksforGeeks:** 5⭐ | 1300+ problems | Score **4200+**  
-- **CodeChef:** 5⭐ | Peak Rating **2045**  
-- **Codeforces:** Expert | Peak Rating **1639**
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anantsingh404&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
-## 💼 Experience
-**Celstream Technologies — Software Engineer**  
-_Bangalore, India | Feb 2023 – Present_
+## 💼 Experience & Education
+
+**💻 Celstream Technologies** — Software Engineer  
+`Feb 2023 – Present` · Bangalore, India
+
+**🎓 Visvesvaraya Technological University**  
+B.E. Computer Science Engineering · `Aug 2019 – May 2023`
 
 ---
 
-## 🎓 Education
-**Visvesvaraya Technological University**  
-Bachelor of Engineering — Computer Science Engineering  
-_Aug 2019 – May 2023_
+## 🧩 CS Fundamentals
+
+<div align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-05122A?style=flat-square)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-05122A?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-05122A?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-05122A?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-05122A?style=flat-square)
+![OS](https://img.shields.io/badge/Operating%20Systems-05122A?style=flat-square)
+
+</div>
 
 ---
 
-## 🤝 Get in Touch
-Open to backend, full-stack, and system-design-oriented roles.
+<div align="center">
 
-📧 Email: anantvikrams30@gmail.com  
-💻 GitHub: https://github.com/anantsingh404
+*Open to backend, full-stack, and system-design-oriented roles*  
+📧 anantvikrams30@gmail.com · 📍 Bangalore, India
+
+</div>
