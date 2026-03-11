@@ -62,7 +62,7 @@ contact: anantvikrams30@gmail.com
 
 | Platform | Rating | Rank / Stars | Problems |
 |----------|--------|--------------|----------|
-| 🟨 **LeetCode** | Peak **2219** | Knight | **1200+** |
+| 🟨 **LeetCode** | Peak **2219** | Guardian | **1300+** |
 | 🟩 **GeeksforGeeks** | Score **4200+** | ⭐⭐⭐⭐⭐ | **1300+** |
 | 🟫 **CodeChef** | Peak **2045** | ⭐⭐⭐⭐⭐ | — |
 | 🔵 **Codeforces** | Peak **1639** | Expert | — |
