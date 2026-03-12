@@ -66,7 +66,7 @@ contact: anantvikrams30@gmail.com
 | 🟩 **GeeksforGeeks** | Score **4350+** | ⭐⭐⭐⭐⭐ | **1400+** |
 | 🟫 **CodeChef** | Peak **2045** | ⭐⭐⭐⭐⭐ | **127+** |
 | 🔵 **Codeforces** | Peak **1639** | Expert | **300+** |
-| ⬛ **HackerRank** | — | ⭐⭐⭐⭐⭐ | **200+** |
+| ⬛ **HackerRank** | Gold level | ⭐⭐⭐⭐⭐ | **200+** |
 
 </div>
 
