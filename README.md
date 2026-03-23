@@ -20,8 +20,8 @@
 name: Anant Vikram Singh
 role: Software Engineer
 location: Bangalore, India
-company: Celstream Technologies
-experience: 2+ years
+company: Flipkart
+experience: 3+ years
 
 focus:
   - Scalable Spring Boot microservices
@@ -179,8 +179,11 @@ contact: anantvikrams30@gmail.com
 
 ## 💼 Experience & Education
 
+**💻 Flipkart** — Software Engineer  
+`Mar 2026 – Present` · Bangalore, India
+
 **💻 Celstream Technologies** — Software Engineer  
-`Feb 2023 – Present` · Bangalore, India
+`Feb 2023 – Jan 2026` · Bangalore, India
 
 **🎓 Visvesvaraya Technological University**  
 B.E. Computer Science Engineering · `Aug 2019 – May 2023`
